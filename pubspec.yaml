@@ -24,6 +24,12 @@ dependencies:
   sqlite3_flutter_libs:
   path_provider:
   path:
+  flutter_riverpod:
+  flutter_datetime_picker:
+  freezed:
+  flutter_slidable:
+  flutter_hooks:
+  hooks_riverpod:
 
 dev_dependencies:
   flutter_test:
